@@ -1,3 +1,6 @@
+/* eslint-disable no-console */
+/* eslint-disable no-unused-vars */
+
 // Capitalize every word of the input string
 
 String.prototype.toJadenCase = function () {
