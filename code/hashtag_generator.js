@@ -34,6 +34,3 @@ function generateHashtag(str) {
 		return hashtag;
 	}
 }
-
-console.log(generateHashtag(' Hello there thanks for trying my Kata'));
-console.log(generateHashtag('Hello world'));
