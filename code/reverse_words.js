@@ -19,5 +19,3 @@ function reverseWords(str) {
 
 	return stringArray.join(' ');
 }
-
-console.log(reverseWords('This is an example!'));
